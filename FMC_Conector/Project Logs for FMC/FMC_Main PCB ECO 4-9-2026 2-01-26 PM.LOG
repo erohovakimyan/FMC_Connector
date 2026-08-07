@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=3V3 Pin=JC1-63
+Removed Pin From Net: NetName=12V0 Pin=JC1-70
+Removed Pin From Net: NetName=3V3 Pin=JC1-71
+Removed Pin From Net: NetName=12V0 Pin=JC1-74
+Removed Pin From Net: NetName=GND Pin=JC1-76
+Removed Pin From Net: NetName=GND Pin=JC1-77
+Removed Pin From Net: NetName=3V3 Pin=JC1-78
+Removed Pin From Net: NetName=GND Pin=JC1-80
+Removed Pin From Net: NetName=GND Pin=JC2-76
+Removed Pin From Net: NetName=VDD_ADJ Pin=JC2-79
+Removed Pin From Net: NetName=GND Pin=JC2-80
+Added Pin To Net: NetName=GND Pin=JC1-70
+Added Pin To Net: NetName=GND Pin=JC1-71
+Added Pin To Net: NetName=GND Pin=JC1-74
+Added Pin To Net: NetName=12V0 Pin=JC1-76
+Added Pin To Net: NetName=3V3 Pin=JC1-77
+Added Pin To Net: NetName=12V0 Pin=JC1-78
+Added Pin To Net: NetName=12V0 Pin=JC1-80
+Added Pin To Net: NetName=VDD_ADJ Pin=JC2-76
+Added Pin To Net: NetName=GND Pin=JC2-79
+Added Pin To Net: NetName=VDD_ADJ Pin=JC2-80
+Added Member To Class: ClassName=FMC_Main Member=Component R2 RES

@@ -1,0 +1,19 @@
+Change Component Designator: OldDesignator=Y? NewDesignator=Y12
+Change Component Designator: OldDesignator=Y? NewDesignator=Y13
+Change Component Designator: OldDesignator=Y? NewDesignator=Y14
+Change Component Designator: OldDesignator=Y? NewDesignator=Y15
+Change Component Designator: OldDesignator=Y? NewDesignator=Y16
+Change Component Designator: OldDesignator=Y? NewDesignator=Y17
+Change Component Designator: OldDesignator=Y? NewDesignator=Y18
+Change Component Designator: OldDesignator=Y? NewDesignator=Y19
+Change Component Designator: OldDesignator=Y? NewDesignator=Y20
+Change Component Designator: OldDesignator=Y? NewDesignator=Y21
+Added Member To Class: ClassName=FMC_Main Member=Component Y12 Solderbridge_NC
+Added Member To Class: ClassName=FMC_Main Member=Component Y13 Solderbridge_NC
+Added Member To Class: ClassName=FMC_Main Member=Component Y14 Solderbridge_NC
+Added Member To Class: ClassName=FMC_Main Member=Component Y15 Solderbridge_NC
+Added Member To Class: ClassName=FMC_Main Member=Component Y16 Solderbridge_NC
+Added Member To Class: ClassName=FMC_Main Member=Component Y17 Solderbridge_NC
+Added Member To Class: ClassName=FMC_Main Member=Component Y18 Solderbridge_NC
+Added Member To Class: ClassName=FMC_Main Member=Component Y19 Solderbridge_NC
+Added Member To Class: ClassName=FMC_Main Member=Component Y21 Solderbridge_NC

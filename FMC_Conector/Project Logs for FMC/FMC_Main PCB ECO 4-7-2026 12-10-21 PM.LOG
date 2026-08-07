@@ -1,0 +1,30 @@
+Added Component: Designator=JC4(67800-5001)
+Add component (AddParameter): Name = "Company P/N"; Value = "JC-000049"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "MOLEX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N 1"; Value = "67800-5001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0.7"; VariantName = "[No Variations]"
+Added Component: Designator=JC5(67800-5001)
+Add component (AddParameter): Name = "Company P/N"; Value = "JC-000049"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "MOLEX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N 1"; Value = "67800-5001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0.7"; VariantName = "[No Variations]"
+Added Component: Designator=JC6(67800-5001)
+Add component (AddParameter): Name = "Company P/N"; Value = "JC-000049"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "MOLEX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N 1"; Value = "67800-5001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0.7"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=JC4-1
+Added Pin To Net: NetName=GND Pin=JC4-4
+Added Pin To Net: NetName=GND Pin=JC4-7
+Added Pin To Net: NetName=GND Pin=JC5-1
+Added Pin To Net: NetName=GND Pin=JC5-4
+Added Pin To Net: NetName=GND Pin=JC5-7
+Added Pin To Net: NetName=GND Pin=JC6-1
+Added Pin To Net: NetName=GND Pin=JC6-4
+Added Pin To Net: NetName=GND Pin=JC6-7
+Added Member To Class: ClassName=FMC_Main Member=Component JC4 67800-5001
+Added Member To Class: ClassName=FMC_Main Member=Component JC5 67800-5001
+Added Member To Class: ClassName=FMC_Main Member=Component JC6 67800-5001

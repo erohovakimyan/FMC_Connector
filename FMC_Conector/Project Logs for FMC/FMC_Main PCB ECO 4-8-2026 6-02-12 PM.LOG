@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=LA05_P Pin=JC7-16
+Removed Pin From Net: NetName=LA05_N Pin=JC7-18
+Added Component: Designator=Y10(Solderbridge_NC)
+Add component (AddParameter): Name = "Company P/N"; Value = "YC-000014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=Y11(Solderbridge_NC)
+Add component (AddParameter): Name = "Company P/N"; Value = "YC-000014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LA05_P Pin=Y10-1
+Added Pin To Net: NetName=LA05_N Pin=Y11-1
+Added Pin To Net: NetName=NetJC7_16 Pin=JC7-16
+Added Pin To Net: NetName=NetJC7_16 Pin=Y10-2
+Added Net: Name=NetJC7_16
+Added Pin To Net: NetName=NetJC7_18 Pin=JC7-18
+Added Pin To Net: NetName=NetJC7_18 Pin=Y11-2
+Added Net: Name=NetJC7_18
+Added Member To Class: ClassName=FMC_Main Member=Component Y10 Solderbridge_NC
+Added Member To Class: ClassName=FMC_Main Member=Component Y11 Solderbridge_NC

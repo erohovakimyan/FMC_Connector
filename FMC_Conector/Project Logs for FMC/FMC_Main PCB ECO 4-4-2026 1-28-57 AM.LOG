@@ -1,0 +1,16 @@
+Added Component: Designator=JC?(FTSH-140-01-L-DV)
+Add component (AddParameter): Name = "Company P/N"; Value = "JC-000048"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Samtec Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N 1"; Value = "FTSH-140-01-L-DV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "80"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "6"; VariantName = "[No Variations]"
+Added Component: Designator=JC?(FTSH-140-01-L-DV)
+Add component (AddParameter): Name = "Company P/N"; Value = "JC-000048"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Samtec Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N 1"; Value = "FTSH-140-01-L-DV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "80"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "6"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=FMC_Main Member=Component JC? FTSH-140-01-L-DV
+Added Member To Class: ClassName=FMC_Main Member=Component JC? ASP-134604-01
+Added Member To Class: ClassName=FMC_Main Member=Component JC? FTSH-140-01-L-DV
+Added Member To Class: ClassName=FMC_Main Member=Component JC? FTSH-140-01-L-DV

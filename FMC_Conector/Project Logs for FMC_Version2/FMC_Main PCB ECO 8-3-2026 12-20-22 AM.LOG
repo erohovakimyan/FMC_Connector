@@ -1,0 +1,80 @@
+Removed Pin From Net: NetName=GND Pin=JC7-2
+Removed Pin From Net: NetName=GND Pin=JC7-19
+Removed Pin From Net: NetName=3V3 Pin=JC7-20
+Removed Pin From Net: NetName=LA09_P Pin=Y1-2
+Removed Pin From Net: NetName=LA06_N Pin=Y2-1
+Removed Pin From Net: NetName=LA06_P Pin=Y3-2
+Removed Pin From Net: NetName=LA10_P Pin=Y4-2
+Removed Pin From Net: NetName=LA10_N Pin=Y5-2
+Removed Pin From Net: NetName=LA14_N Pin=Y6-1
+Removed Pin From Net: NetName=LA14_P Pin=Y7-2
+Removed Pin From Net: NetName=LA23_P Pin=Y8-2
+Removed Pin From Net: NetName=LA23_N Pin=Y9-2
+Removed Pin From Net: NetName=LA27_P Pin=Y10-1
+Removed Pin From Net: NetName=LA27_N Pin=Y11-1
+Removed Member From Class: ClassName=FMC_Main Member=JC7
+Removed Member From Class: ClassName=FMC_Main Member=Y1
+Removed Member From Class: ClassName=FMC_Main Member=Y2
+Removed Member From Class: ClassName=FMC_Main Member=Y3
+Removed Member From Class: ClassName=FMC_Main Member=Y4
+Removed Member From Class: ClassName=FMC_Main Member=Y5
+Removed Member From Class: ClassName=FMC_Main Member=Y6
+Removed Member From Class: ClassName=FMC_Main Member=Y7
+Removed Member From Class: ClassName=FMC_Main Member=Y8
+Removed Member From Class: ClassName=FMC_Main Member=Y9
+Removed Member From Class: ClassName=FMC_Main Member=Y10
+Removed Member From Class: ClassName=FMC_Main Member=Y11
+Added Component: Designator=Q1(0603LED)
+Add component (AddParameter): Name = "Company P/N"; Value = "QC-000018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N 1"; Value = "LTST-C190KSKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-30°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0.046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "3V"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(0603LED)
+Add component (AddParameter): Name = "Company P/N"; Value = "QC-000018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N 1"; Value = "LTST-C190KSKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-30°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0.046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "3V"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES0402_N)
+Add component (AddParameter): Name = "Company P/N"; Value = "RC-000069"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "KOA Speer Electronics, Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N 1"; Value = "RK73H1ETTP3300F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES0402_N)
+Add component (AddParameter): Name = "Company P/N"; Value = "RC-000029"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 2"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N 1"; Value = "RMCF0402FT2K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N 2"; Value = "RC0402FR-072KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0.002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=3V3 Pin=R3-1
+Added Pin To Net: NetName=12V0 Pin=R4-1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R3-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R4-2
+Added Net: Name=NetQ2_1
+Added Member To Class: ClassName=FMC_Main Member=Component Q1 LED
+Added Member To Class: ClassName=FMC_Main Member=Component Q2 LED
+Added Member To Class: ClassName=FMC_Main Member=Component R3 RES
+Added Member To Class: ClassName=FMC_Main Member=Component R4 RES
+Added Rule: Name=Schematic Width Constraint

@@ -1,0 +1,74 @@
+Removed Pin From Net: NetName=NetJC7_5 Pin=Y2-1
+Removed Pin From Net: NetName=LA06_P Pin=Y2-2
+Removed Pin From Net: NetName=NetJC7_7 Pin=Y3-1
+Removed Pin From Net: NetName=LA10_P Pin=Y3-2
+Removed Pin From Net: NetName=LA06_N Pin=Y4-1
+Removed Pin From Net: NetName=NetJC7_6 Pin=Y4-2
+Removed Pin From Net: NetName=NetJC7_11 Pin=Y6-1
+Removed Pin From Net: NetName=LA14_P Pin=Y6-2
+Removed Pin From Net: NetName=LA14_N Pin=Y7-1
+Removed Pin From Net: NetName=NetJC7_12 Pin=Y7-2
+Change Component Footprint: Designator=Y1 Old Footprint=Solderbridge New Footprint=Solderbridge_NC
+Change Component Footprint: Designator=Y2 Old Footprint=Solderbridge New Footprint=Solderbridge_NC
+Change Component Footprint: Designator=Y3 Old Footprint=Solderbridge New Footprint=Solderbridge_NC
+Change Component Footprint: Designator=Y4 Old Footprint=Solderbridge New Footprint=Solderbridge_NC
+Change Component Footprint: Designator=Y5 Old Footprint=Solderbridge New Footprint=Solderbridge_NC
+Change Component Footprint: Designator=Y6 Old Footprint=Solderbridge New Footprint=Solderbridge_NC
+Change Component Footprint: Designator=Y7 Old Footprint=Solderbridge New Footprint=Solderbridge_NC
+Change Component Footprint: Designator=Y8 Old Footprint=Solderbridge New Footprint=Solderbridge_NC
+Change Component Footprint: Designator=Y9 Old Footprint=Solderbridge New Footprint=Solderbridge_NC
+Change Component Comment : Designator=Y1 Old Comment=Solderbridge New Comment=Solderbridge_NC
+Change Component Comment : Designator=Y2 Old Comment=Solderbridge New Comment=Solderbridge_NC
+Change Component Comment : Designator=Y3 Old Comment=Solderbridge New Comment=Solderbridge_NC
+Change Component Comment : Designator=Y4 Old Comment=Solderbridge New Comment=Solderbridge_NC
+Change Component Comment : Designator=Y5 Old Comment=Solderbridge New Comment=Solderbridge_NC
+Change Component Comment : Designator=Y6 Old Comment=Solderbridge New Comment=Solderbridge_NC
+Change Component Comment : Designator=Y7 Old Comment=Solderbridge New Comment=Solderbridge_NC
+Change Component Comment : Designator=Y8 Old Comment=Solderbridge New Comment=Solderbridge_NC
+Change Component Comment : Designator=Y9 Old Comment=Solderbridge New Comment=Solderbridge_NC
+Change component parameters: Designator = "Y1" ("Y1"); Footprint = "Solderbridge"; UniqueID = "\IETZTRTU" ("\IETZTRTU")
+Change component parameters (AddParameter): Name = "Company P/N"; Value = "YC-000014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y2" ("Y2"); Footprint = "Solderbridge"; UniqueID = "\CNMOZDBU" ("\CNMOZDBU")
+Change component parameters (AddParameter): Name = "Company P/N"; Value = "YC-000014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y3" ("Y3"); Footprint = "Solderbridge"; UniqueID = "\VJHDDWDQ" ("\VJHDDWDQ")
+Change component parameters (AddParameter): Name = "Company P/N"; Value = "YC-000014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y4" ("Y4"); Footprint = "Solderbridge"; UniqueID = "\ITSTRIKP" ("\ITSTRIKP")
+Change component parameters (AddParameter): Name = "Company P/N"; Value = "YC-000014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y5" ("Y5"); Footprint = "Solderbridge"; UniqueID = "\JTSFKHFO" ("\JTSFKHFO")
+Change component parameters (AddParameter): Name = "Company P/N"; Value = "YC-000014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y6" ("Y6"); Footprint = "Solderbridge"; UniqueID = "\XIPSKTCL" ("\XIPSKTCL")
+Change component parameters (AddParameter): Name = "Company P/N"; Value = "YC-000014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y7" ("Y7"); Footprint = "Solderbridge"; UniqueID = "\RHWBWGSY" ("\RHWBWGSY")
+Change component parameters (AddParameter): Name = "Company P/N"; Value = "YC-000014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y8" ("Y8"); Footprint = "Solderbridge"; UniqueID = "\AGEDAQRG" ("\AGEDAQRG")
+Change component parameters (AddParameter): Name = "Company P/N"; Value = "YC-000014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Y9" ("Y9"); Footprint = "Solderbridge"; UniqueID = "\HVHKNLFA" ("\HVHKNLFA")
+Change component parameters (AddParameter): Name = "Company P/N"; Value = "YC-000014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LA06_N Pin=Y2-1
+Added Pin To Net: NetName=NetJC7_6 Pin=Y2-2
+Added Pin To Net: NetName=NetJC7_5 Pin=Y3-1
+Added Pin To Net: NetName=LA06_P Pin=Y3-2
+Added Pin To Net: NetName=NetJC7_7 Pin=Y4-1
+Added Pin To Net: NetName=LA10_P Pin=Y4-2
+Added Pin To Net: NetName=LA14_N Pin=Y6-1
+Added Pin To Net: NetName=NetJC7_12 Pin=Y6-2
+Added Pin To Net: NetName=NetJC7_11 Pin=Y7-1
+Added Pin To Net: NetName=LA14_P Pin=Y7-2
+Added Member To Class: ClassName=FMC_Main Member=Component Y1 Solderbridge_NC
+Added Member To Class: ClassName=FMC_Main Member=Component Y2 Solderbridge_NC
+Added Member To Class: ClassName=FMC_Main Member=Component Y3 Solderbridge_NC
+Added Member To Class: ClassName=FMC_Main Member=Component Y4 Solderbridge_NC
+Added Member To Class: ClassName=FMC_Main Member=Component Y5 Solderbridge_NC
+Added Member To Class: ClassName=FMC_Main Member=Component Y6 Solderbridge_NC
+Added Member To Class: ClassName=FMC_Main Member=Component Y7 Solderbridge_NC
+Added Member To Class: ClassName=FMC_Main Member=Component Y8 Solderbridge_NC
+Added Member To Class: ClassName=FMC_Main Member=Component Y9 Solderbridge_NC

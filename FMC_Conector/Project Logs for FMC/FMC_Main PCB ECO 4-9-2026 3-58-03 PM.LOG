@@ -1,0 +1,122 @@
+Removed Pin From Net: NetName=LA02_P Pin=JC2-13
+Removed Pin From Net: NetName=LA02_N Pin=JC2-15
+Removed Pin From Net: NetName=LA04_P Pin=JC2-19
+Removed Pin From Net: NetName=LA04_N Pin=JC2-21
+Removed Pin From Net: NetName=LA15_P Pin=JC2-37
+Removed Pin From Net: NetName=LA15_N Pin=JC2-39
+Removed Pin From Net: NetName=LA28_P Pin=JC2-61
+Removed Pin From Net: NetName=LA28_N Pin=JC2-63
+Removed Pin From Net: NetName=LA30_P Pin=JC2-67
+Removed Pin From Net: NetName=LA30_N Pin=JC2-69
+Removed Pin From Net: NetName=LA02_P Pin=Y12-2
+Removed Pin From Net: NetName=LA02_N Pin=Y13-2
+Removed Pin From Net: NetName=LA04_P Pin=Y14-2
+Removed Pin From Net: NetName=LA04_N Pin=Y15-2
+Removed Pin From Net: NetName=LA15_P Pin=Y16-2
+Removed Pin From Net: NetName=LA15_N Pin=Y17-2
+Removed Pin From Net: NetName=LA28_P Pin=Y18-2
+Removed Pin From Net: NetName=LA28_N Pin=Y19-2
+Removed Pin From Net: NetName=LA30_P Pin=Y20-2
+Removed Pin From Net: NetName=LA30_N Pin=Y21-2
+Removed Member From Class: ClassName=FMC_Main Member=Y12
+Removed Member From Class: ClassName=FMC_Main Member=Y14
+Removed Member From Class: ClassName=FMC_Main Member=Y15
+Removed Member From Class: ClassName=FMC_Main Member=Y18
+Removed Member From Class: ClassName=FMC_Main Member=Y19
+Change Component Designator: OldDesignator=Y13 NewDesignator=Y?
+Change Component Designator: OldDesignator=Y16 NewDesignator=Y?
+Change Component Designator: OldDesignator=Y17 NewDesignator=Y?
+Change Component Designator: OldDesignator=Y20 NewDesignator=Y?
+Change Component Designator: OldDesignator=Y21 NewDesignator=Y?
+Added Component: Designator=Y?(Solderbridge_NC)
+Add component (AddParameter): Name = "Company P/N"; Value = "YC-000014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=Y?(Solderbridge_NC)
+Add component (AddParameter): Name = "Company P/N"; Value = "YC-000014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=Y?(Solderbridge_NC)
+Add component (AddParameter): Name = "Company P/N"; Value = "YC-000014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=Y?(Solderbridge_NC)
+Add component (AddParameter): Name = "Company P/N"; Value = "YC-000014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=Y?(Solderbridge_NC)
+Add component (AddParameter): Name = "Company P/N"; Value = "YC-000014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LA02_P Pin=JC4-2
+Added Pin To Net: NetName=LA02_N Pin=JC4-3
+Added Pin To Net: NetName=LA04_P Pin=JC4-5
+Added Pin To Net: NetName=LA04_N Pin=JC4-6
+Added Pin To Net: NetName=LA15_P Pin=JC5-2
+Added Pin To Net: NetName=LA15_N Pin=JC5-3
+Added Pin To Net: NetName=LA28_P Pin=JC6-2
+Added Pin To Net: NetName=LA28_N Pin=JC6-3
+Added Pin To Net: NetName=LA30_P Pin=JC6-5
+Added Pin To Net: NetName=LA30_N Pin=JC6-6
+Added Pin To Net: NetName=LA02_N Pin=Y?-2
+Added Pin To Net: NetName=LA02_P Pin=Y?-2
+Added Pin To Net: NetName=LA04_N Pin=Y?-2
+Added Pin To Net: NetName=LA04_P Pin=Y?-2
+Added Pin To Net: NetName=LA15_N Pin=Y?-2
+Added Pin To Net: NetName=LA15_P Pin=Y?-2
+Added Pin To Net: NetName=LA28_N Pin=Y?-2
+Added Pin To Net: NetName=LA28_P Pin=Y?-2
+Added Pin To Net: NetName=LA30_N Pin=Y?-2
+Added Pin To Net: NetName=LA30_P Pin=Y?-2
+Added Pin To Net: NetName=NetJC2_13 Pin=JC2-13
+Added Pin To Net: NetName=NetJC2_13 Pin=Y?-1
+Added Net: Name=NetJC2_13
+Added Pin To Net: NetName=NetJC2_15 Pin=JC2-15
+Added Pin To Net: NetName=NetJC2_15 Pin=Y?-1
+Added Net: Name=NetJC2_15
+Added Pin To Net: NetName=NetJC2_19 Pin=JC2-19
+Added Pin To Net: NetName=NetJC2_19 Pin=Y?-1
+Added Net: Name=NetJC2_19
+Added Pin To Net: NetName=NetJC2_21 Pin=JC2-21
+Added Pin To Net: NetName=NetJC2_21 Pin=Y?-1
+Added Net: Name=NetJC2_21
+Added Pin To Net: NetName=NetJC2_37 Pin=JC2-37
+Added Pin To Net: NetName=NetJC2_37 Pin=Y?-1
+Added Net: Name=NetJC2_37
+Added Pin To Net: NetName=NetJC2_39 Pin=JC2-39
+Added Pin To Net: NetName=NetJC2_39 Pin=Y?-1
+Added Net: Name=NetJC2_39
+Added Pin To Net: NetName=NetJC2_61 Pin=JC2-61
+Added Pin To Net: NetName=NetJC2_61 Pin=Y?-1
+Added Net: Name=NetJC2_61
+Added Pin To Net: NetName=NetJC2_63 Pin=JC2-63
+Added Pin To Net: NetName=NetJC2_63 Pin=Y?-1
+Added Net: Name=NetJC2_63
+Added Pin To Net: NetName=NetJC2_67 Pin=JC2-67
+Added Pin To Net: NetName=NetJC2_67 Pin=Y?-1
+Added Net: Name=NetJC2_67
+Added Pin To Net: NetName=NetJC2_69 Pin=JC2-69
+Added Pin To Net: NetName=NetJC2_69 Pin=Y?-1
+Added Net: Name=NetJC2_69
+Added Member To Class: ClassName=FMC_Main Member=Component Y? Solderbridge_NC
+Added Member To Class: ClassName=FMC_Main Member=Component Y? Solderbridge_NC
+Added Member To Class: ClassName=FMC_Main Member=Component Y? Solderbridge_NC
+Added Member To Class: ClassName=FMC_Main Member=Component Y? Solderbridge_NC
+Added Member To Class: ClassName=FMC_Main Member=Component Y? Solderbridge_NC
+Added Member To Class: ClassName=DIFF_PAIR Member=Wire LA02_N
+Added Member To Class: ClassName=DIFF_PAIR Member=Wire LA02_P
+Added Member To Class: ClassName=DIFF_PAIR Member=Wire LA04_N
+Added Member To Class: ClassName=DIFF_PAIR Member=Wire LA04_P
+Added Member To Class: ClassName=DIFF_PAIR Member=Wire LA07_N
+Added Member To Class: ClassName=DIFF_PAIR Member=Wire LA07_P
+Added Member To Class: ClassName=DIFF_PAIR Member=Wire LA11_N
+Added Member To Class: ClassName=DIFF_PAIR Member=Wire LA11_P
+Added Member To Class: ClassName=DIFF_PAIR Member=Wire LA15_N
+Added Member To Class: ClassName=DIFF_PAIR Member=Wire LA15_P
+Added Member To Class: ClassName=DIFF_PAIR Member=Wire LA19_N
+Added Member To Class: ClassName=DIFF_PAIR Member=Wire LA19_P
+Added Member To Class: ClassName=DIFF_PAIR Member=Wire LA21_N
+Added Member To Class: ClassName=DIFF_PAIR Member=Wire LA21_P
+Added Member To Class: ClassName=DIFF_PAIR Member=Wire LA24_N
+Added Member To Class: ClassName=DIFF_PAIR Member=Wire LA24_P
+Added Member To Class: ClassName=DIFF_PAIR Member=Wire LA28_N
+Added Member To Class: ClassName=DIFF_PAIR Member=Wire LA28_P
+Added Member To Class: ClassName=DIFF_PAIR Member=Wire LA30_N
+Added Member To Class: ClassName=DIFF_PAIR Member=Wire LA30_P
+Added Member To Class: ClassName=DIFF_PAIR Member=Wire LA32_N
+Added Member To Class: ClassName=DIFF_PAIR Member=Wire LA32_P

@@ -1,0 +1,23 @@
+Removed Member From Class: ClassName=DIFF_PAIR Member=LA02_N
+Removed Member From Class: ClassName=DIFF_PAIR Member=LA02_P
+Removed Member From Class: ClassName=DIFF_PAIR Member=LA04_N
+Removed Member From Class: ClassName=DIFF_PAIR Member=LA04_P
+Removed Member From Class: ClassName=DIFF_PAIR Member=LA07_N
+Removed Member From Class: ClassName=DIFF_PAIR Member=LA07_P
+Removed Member From Class: ClassName=DIFF_PAIR Member=LA11_N
+Removed Member From Class: ClassName=DIFF_PAIR Member=LA11_P
+Removed Member From Class: ClassName=DIFF_PAIR Member=LA15_N
+Removed Member From Class: ClassName=DIFF_PAIR Member=LA15_P
+Removed Member From Class: ClassName=DIFF_PAIR Member=LA19_N
+Removed Member From Class: ClassName=DIFF_PAIR Member=LA19_P
+Removed Member From Class: ClassName=DIFF_PAIR Member=LA21_N
+Removed Member From Class: ClassName=DIFF_PAIR Member=LA21_P
+Removed Member From Class: ClassName=DIFF_PAIR Member=LA24_N
+Removed Member From Class: ClassName=DIFF_PAIR Member=LA24_P
+Removed Member From Class: ClassName=DIFF_PAIR Member=LA28_N
+Removed Member From Class: ClassName=DIFF_PAIR Member=LA28_P
+Removed Member From Class: ClassName=DIFF_PAIR Member=LA30_N
+Removed Member From Class: ClassName=DIFF_PAIR Member=LA30_P
+Removed Member From Class: ClassName=DIFF_PAIR Member=LA32_N
+Removed Member From Class: ClassName=DIFF_PAIR Member=LA32_P
+Added Rule: Name=Schematic Width Constraint_1

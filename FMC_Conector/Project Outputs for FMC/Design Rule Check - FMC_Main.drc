@@ -1,0 +1,84 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\hovak\OneDrive\Desktop\Work\Microchip\FMC_PCB _2.54\FMC\FMC_Main.PcbDoc
+Date     : 4/11/2026
+Time     : 9:23:36 PM
+
+Processing Rule : Clearance Constraint (Gap=15mil) (InNetClass('PWR')),(InNetClass('PWR'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+   Violation between Clearance Constraint: (1.742mil < 6mil) Between Track (4598mil,3156mil)(4646.008mil,3204.008mil) on Top Layer And Track (4655mil,3184mil)(4655mil,3224mil) on Top Layer 
+   Violation between Clearance Constraint: (3.462mil < 6mil) Between Track (4606.06mil,2649.775mil)(4627.038mil,2628.796mil) on Top Layer And Track (4635mil,2620mil)(4635mil,2631.483mil) on Top Layer 
+   Violation between Clearance Constraint: (2.75mil < 6mil) Between Track (4615.25mil,3299.75mil)(4645mil,3270mil) on Top Layer And Track (4655mil,3250mil)(4655mil,3290mil) on Top Layer 
+   Violation between Clearance Constraint: (2.75mil < 6mil) Between Track (4615.25mil,3310.25mil)(4645mil,3340mil) on Top Layer And Track (4655mil,3320mil)(4655mil,3360mil) on Top Layer 
+   Violation between Clearance Constraint: (2.75mil < 6mil) Between Track (4615.5mil,3110.5mil)(4645mil,3140mil) on Top Layer And Track (4655mil,3120mil)(4655mil,3160mil) on Top Layer 
+   Violation between Clearance Constraint: (2.75mil < 6mil) Between Track (4615mil,3100mil)(4645mil,3070mil) on Top Layer And Track (4655mil,3050mil)(4655mil,3090mil) on Top Layer 
+   Violation between Clearance Constraint: (2.75mil < 6mil) Between Track (4625.25mil,2899.75mil)(4645mil,2880mil) on Top Layer And Track (4655mil,2850mil)(4655mil,2890mil) on Top Layer 
+   Violation between Clearance Constraint: (2.75mil < 6mil) Between Track (4625.25mil,2910.25mil)(4645mil,2930mil) on Top Layer And Track (4655mil,2920mil)(4655mil,2960mil) on Top Layer 
+   Violation between Clearance Constraint: (2.75mil < 6mil) Between Track (4635mil,2620mil)(4635mil,2631.483mil) on Top Layer And Track (4645mil,2600mil)(4645mil,2640mil) on Top Layer 
+   Violation between Clearance Constraint: (2.75mil < 6mil) Between Track (4645mil,2870mil)(4645mil,2880mil) on Top Layer And Track (4655mil,2850mil)(4655mil,2890mil) on Top Layer 
+   Violation between Clearance Constraint: (2.75mil < 6mil) Between Track (4645mil,2930mil)(4645mil,2940mil) on Top Layer And Track (4655mil,2920mil)(4655mil,2960mil) on Top Layer 
+Rule Violations :11
+
+Processing Rule : Short-Circuit Constraint (Allowed=Yes) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net NetJC7_9 Between Arc (4655mil,3070mil) on Top Layer And Pad Y5-1(4685mil,3070mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetJC7_1 Between Arc (4655mil,3204mil) on Top Layer And Via (4685mil,3204mil) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net LA27_N Between Track (4621.974mil,2485.026mil)(4621.974mil,2488.801mil) on Top Layer And Arc (4665mil,2620mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net LA27_N Between Track (4635mil,2620mil)(4635mil,2631.483mil) on Top Layer And Arc (4665mil,2620mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net LA27_P Between Track (4620.602mil,2525.602mil)(4633mil,2538mil) on Top Layer And Arc (4665mil,2690mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net LA10_N Between Pad Y5-2(4645mil,3070mil) on Top Layer And Arc (4675mil,3070mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net LA09_P Between Track (4598mil,3156mil)(4646.008mil,3204.008mil) on Top Layer And Arc (4675mil,3204mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Split Plane  (No Net) on GND Dead Copper - Net Not Assigned.
+Rule Violations :8
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=4.5mil) (Max=10mil) (Preferred=4.5mil) (InNetClass('DIFF_PAIR'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=80mil) (Preferred=6mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=4.923mil) (Max=15.5mil) (Preferred=11.971mil) (InNetClass('RF_50Ohm'))
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=196.85mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=2mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (InComponent('U1') Or InComponent('Q7')),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=1mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=3mil) (All)
+   Violation between Net Antennae: Track (4635mil,2620mil)(4635mil,2631.483mil) on Top Layer 
+   Violation between Net Antennae: Track (4635mil,2620mil)(4635mil,2631.483mil) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 21
+Waived Violations : 0
+Time Elapsed        : 00:00:00

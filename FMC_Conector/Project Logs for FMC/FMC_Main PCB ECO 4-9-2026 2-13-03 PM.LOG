@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=3V3 Pin=JC1-75
+Removed Pin From Net: NetName=12V0 Pin=JC1-76
+Removed Pin From Net: NetName=3V3 Pin=JC1-77
+Removed Pin From Net: NetName=12V0 Pin=JC1-78
+Removed Pin From Net: NetName=3V3 Pin=JC1-79
+Removed Pin From Net: NetName=12V0 Pin=JC1-80
+Added Pin To Net: NetName=12V0 Pin=JC1-75
+Added Pin To Net: NetName=3V3 Pin=JC1-76
+Added Pin To Net: NetName=12V0 Pin=JC1-77
+Added Pin To Net: NetName=3V3 Pin=JC1-78
+Added Pin To Net: NetName=12V0 Pin=JC1-79
+Added Pin To Net: NetName=3V3 Pin=JC1-80

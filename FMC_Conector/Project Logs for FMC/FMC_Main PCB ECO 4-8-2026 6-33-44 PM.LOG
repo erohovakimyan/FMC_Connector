@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=LA28_P Pin=JC6-2
+Removed Pin From Net: NetName=LA28_N Pin=JC6-3
+Added Pin To Net: NetName=LA30_P Pin=JC6-2
+Added Pin To Net: NetName=LA30_N Pin=JC6-3

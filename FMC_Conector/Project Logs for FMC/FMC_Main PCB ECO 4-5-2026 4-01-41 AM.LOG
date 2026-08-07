@@ -1,0 +1,353 @@
+Removed Pin From Net: NetName=Net_1_P Pin=JC4-3
+Removed Pin From Net: NetName=Net_1_N Pin=JC4-5
+Added Pin To Net: NetName=GND Pin=JC1-2
+Added Pin To Net: NetName=GND Pin=JC1-5
+Added Pin To Net: NetName=GND Pin=JC1-8
+Added Pin To Net: NetName=GND Pin=JC1-10
+Added Pin To Net: NetName=GND Pin=JC1-11
+Added Pin To Net: NetName=GND Pin=JC1-16
+Added Pin To Net: NetName=GND Pin=JC1-17
+Added Pin To Net: NetName=GND Pin=JC1-22
+Added Pin To Net: NetName=GND Pin=JC1-23
+Added Pin To Net: NetName=GND Pin=JC1-28
+Added Pin To Net: NetName=GND Pin=JC1-29
+Added Pin To Net: NetName=GND Pin=JC1-34
+Added Pin To Net: NetName=GND Pin=JC1-35
+Added Pin To Net: NetName=GND Pin=JC1-40
+Added Pin To Net: NetName=GND Pin=JC1-41
+Added Pin To Net: NetName=GND Pin=JC1-46
+Added Pin To Net: NetName=GND Pin=JC1-47
+Added Pin To Net: NetName=GND Pin=JC1-52
+Added Pin To Net: NetName=GND Pin=JC1-53
+Added Pin To Net: NetName=GND Pin=JC1-58
+Added Pin To Net: NetName=GND Pin=JC1-59
+Added Pin To Net: NetName=GND Pin=JC1-64
+Added Pin To Net: NetName=GND Pin=JC1-65
+Added Pin To Net: NetName=GND Pin=JC1-70
+Added Pin To Net: NetName=GND Pin=JC1-71
+Added Pin To Net: NetName=GND Pin=JC1-76
+Added Pin To Net: NetName=GND Pin=JC1-77
+Added Pin To Net: NetName=VDD_ADJ Pin=JC1-78
+Added Pin To Net: NetName=VDD_ADJ Pin=JC1-79
+Added Pin To Net: NetName=GND Pin=JC1-80
+Added Pin To Net: NetName=GND Pin=JC2-2
+Added Pin To Net: NetName=GND Pin=JC2-3
+Added Pin To Net: NetName=GND Pin=JC2-5
+Added Pin To Net: NetName=GND Pin=JC2-8
+Added Pin To Net: NetName=GND Pin=JC2-10
+Added Pin To Net: NetName=GND Pin=JC2-11
+Added Pin To Net: NetName=GND Pin=JC2-13
+Added Pin To Net: NetName=GND Pin=JC2-16
+Added Pin To Net: NetName=GND Pin=JC2-18
+Added Pin To Net: NetName=GND Pin=JC2-19
+Added Pin To Net: NetName=GND Pin=JC2-24
+Added Pin To Net: NetName=GND Pin=JC2-25
+Added Pin To Net: NetName=GND Pin=JC2-26
+Added Pin To Net: NetName=GND Pin=JC2-31
+Added Pin To Net: NetName=GND Pin=JC2-32
+Added Pin To Net: NetName=GND Pin=JC2-34
+Added Pin To Net: NetName=GND Pin=JC2-37
+Added Pin To Net: NetName=GND Pin=JC2-40
+Added Pin To Net: NetName=GND Pin=JC2-42
+Added Pin To Net: NetName=GND Pin=JC2-43
+Added Pin To Net: NetName=GND Pin=JC2-48
+Added Pin To Net: NetName=GND Pin=JC2-49
+Added Pin To Net: NetName=GND Pin=JC2-50
+Added Pin To Net: NetName=GND Pin=JC2-55
+Added Pin To Net: NetName=GND Pin=JC2-56
+Added Pin To Net: NetName=GND Pin=JC2-58
+Added Pin To Net: NetName=SCL Pin=JC2-60
+Added Pin To Net: NetName=SDA Pin=JC2-62
+Added Pin To Net: NetName=3V3 Pin=JC2-63
+Added Pin To Net: NetName=GND Pin=JC2-64
+Added Pin To Net: NetName=GND Pin=JC2-66
+Added Pin To Net: NetName=A0 Pin=JC2-68
+Added Pin To Net: NetName=A1 Pin=JC2-69
+Added Pin To Net: NetName=12V0 Pin=JC2-70
+Added Pin To Net: NetName=3V3 Pin=JC2-71
+Added Pin To Net: NetName=GND Pin=JC2-72
+Added Pin To Net: NetName=GND Pin=JC2-73
+Added Pin To Net: NetName=12V0 Pin=JC2-74
+Added Pin To Net: NetName=3V3 Pin=JC2-75
+Added Pin To Net: NetName=GND Pin=JC2-76
+Added Pin To Net: NetName=GND Pin=JC2-77
+Added Pin To Net: NetName=3V3 Pin=JC2-78
+Added Pin To Net: NetName=3V3 Pin=JC2-79
+Added Pin To Net: NetName=GND Pin=JC2-80
+Added Pin To Net: NetName=LA00_CC_N Pin=JC1-14
+Added Pin To Net: NetName=LA00_CC_N Pin=JC3-G7
+Added Net: Name=LA00_CC_N
+Added Pin To Net: NetName=LA00_CC_P Pin=JC1-12
+Added Pin To Net: NetName=LA00_CC_P Pin=JC3-G6
+Added Net: Name=LA00_CC_P
+Added Pin To Net: NetName=LA01_CC_N Pin=JC2-17
+Added Pin To Net: NetName=LA01_CC_N Pin=JC3-D9
+Added Net: Name=LA01_CC_N
+Added Pin To Net: NetName=LA01_CC_P Pin=JC2-15
+Added Pin To Net: NetName=LA01_CC_P Pin=JC3-D8
+Added Net: Name=LA01_CC_P
+Added Pin To Net: NetName=LA02_N Pin=JC1-15
+Added Pin To Net: NetName=LA02_N Pin=JC3-H8
+Added Net: Name=LA02_N
+Added Pin To Net: NetName=LA02_P Pin=JC1-13
+Added Pin To Net: NetName=LA02_P Pin=JC3-H7
+Added Net: Name=LA02_P
+Added Pin To Net: NetName=LA03_N Pin=JC1-20
+Added Pin To Net: NetName=LA03_N Pin=JC3-G10
+Added Net: Name=LA03_N
+Added Pin To Net: NetName=LA03_P Pin=JC1-18
+Added Pin To Net: NetName=LA03_P Pin=JC3-G9
+Added Net: Name=LA03_P
+Added Pin To Net: NetName=LA04_N Pin=JC1-21
+Added Pin To Net: NetName=LA04_N Pin=JC3-H11
+Added Net: Name=LA04_N
+Added Pin To Net: NetName=LA04_P Pin=JC1-19
+Added Pin To Net: NetName=LA04_P Pin=JC3-H10
+Added Net: Name=LA04_P
+Added Pin To Net: NetName=LA05_N Pin=JC2-23
+Added Pin To Net: NetName=LA05_N Pin=JC3-D12
+Added Net: Name=LA05_N
+Added Pin To Net: NetName=LA05_P Pin=JC2-21
+Added Pin To Net: NetName=LA05_P Pin=JC3-D11
+Added Net: Name=LA05_P
+Added Pin To Net: NetName=LA06_N Pin=JC2-22
+Added Pin To Net: NetName=LA06_N Pin=JC3-C11
+Added Net: Name=LA06_N
+Added Pin To Net: NetName=LA06_P Pin=JC2-20
+Added Pin To Net: NetName=LA06_P Pin=JC3-C10
+Added Net: Name=LA06_P
+Added Pin To Net: NetName=LA07_N Pin=JC1-27
+Added Pin To Net: NetName=LA07_N Pin=JC3-H14
+Added Net: Name=LA07_N
+Added Pin To Net: NetName=LA07_P Pin=JC1-25
+Added Pin To Net: NetName=LA07_P Pin=JC3-H13
+Added Net: Name=LA07_P
+Added Pin To Net: NetName=LA08_N Pin=JC1-26
+Added Pin To Net: NetName=LA08_N Pin=JC3-G13
+Added Net: Name=LA08_N
+Added Pin To Net: NetName=LA08_P Pin=JC1-24
+Added Pin To Net: NetName=LA08_P Pin=JC3-G12
+Added Net: Name=LA08_P
+Added Pin To Net: NetName=LA09_N Pin=JC2-29
+Added Pin To Net: NetName=LA09_N Pin=JC3-D15
+Added Net: Name=LA09_N
+Added Pin To Net: NetName=LA09_P Pin=JC2-27
+Added Pin To Net: NetName=LA09_P Pin=JC3-D14
+Added Net: Name=LA09_P
+Added Pin To Net: NetName=LA10_N Pin=JC2-30
+Added Pin To Net: NetName=LA10_N Pin=JC3-C15
+Added Net: Name=LA10_N
+Added Pin To Net: NetName=LA10_P Pin=JC2-28
+Added Pin To Net: NetName=LA10_P Pin=JC3-C14
+Added Net: Name=LA10_P
+Added Pin To Net: NetName=LA11_N Pin=JC1-33
+Added Pin To Net: NetName=LA11_N Pin=JC3-H17
+Added Net: Name=LA11_N
+Added Pin To Net: NetName=LA11_P Pin=JC1-31
+Added Pin To Net: NetName=LA11_P Pin=JC3-H16
+Added Net: Name=LA11_P
+Added Pin To Net: NetName=LA12_N Pin=JC1-32
+Added Pin To Net: NetName=LA12_N Pin=JC3-G16
+Added Net: Name=LA12_N
+Added Pin To Net: NetName=LA12_P Pin=JC1-30
+Added Pin To Net: NetName=LA12_P Pin=JC3-G15
+Added Net: Name=LA12_P
+Added Pin To Net: NetName=LA13_N Pin=JC2-35
+Added Pin To Net: NetName=LA13_N Pin=JC3-D18
+Added Net: Name=LA13_N
+Added Pin To Net: NetName=LA13_P Pin=JC2-33
+Added Pin To Net: NetName=LA13_P Pin=JC3-D17
+Added Net: Name=LA13_P
+Added Pin To Net: NetName=LA14_N Pin=JC2-38
+Added Pin To Net: NetName=LA14_N Pin=JC3-C19
+Added Net: Name=LA14_N
+Added Pin To Net: NetName=LA14_P Pin=JC2-36
+Added Pin To Net: NetName=LA14_P Pin=JC3-C18
+Added Net: Name=LA14_P
+Added Pin To Net: NetName=LA15_N Pin=JC1-39
+Added Pin To Net: NetName=LA15_N Pin=JC3-H20
+Added Net: Name=LA15_N
+Added Pin To Net: NetName=LA15_P Pin=JC1-37
+Added Pin To Net: NetName=LA15_P Pin=JC3-H19
+Added Net: Name=LA15_P
+Added Pin To Net: NetName=LA16_N Pin=JC1-38
+Added Pin To Net: NetName=LA16_N Pin=JC3-G19
+Added Net: Name=LA16_N
+Added Pin To Net: NetName=LA16_P Pin=JC1-36
+Added Pin To Net: NetName=LA16_P Pin=JC3-G18
+Added Net: Name=LA16_P
+Added Pin To Net: NetName=LA17_CC_N Pin=JC2-41
+Added Pin To Net: NetName=LA17_CC_N Pin=JC3-D21
+Added Net: Name=LA17_CC_N
+Added Pin To Net: NetName=LA17_CC_P Pin=JC2-39
+Added Pin To Net: NetName=LA17_CC_P Pin=JC3-D20
+Added Net: Name=LA17_CC_P
+Added Pin To Net: NetName=LA18_CC_N Pin=JC2-46
+Added Pin To Net: NetName=LA18_CC_N Pin=JC3-C23
+Added Net: Name=LA18_CC_N
+Added Pin To Net: NetName=LA18_CC_P Pin=JC2-44
+Added Pin To Net: NetName=LA18_CC_P Pin=JC3-C22
+Added Net: Name=LA18_CC_P
+Added Pin To Net: NetName=LA19_N Pin=JC1-45
+Added Pin To Net: NetName=LA19_N Pin=JC3-H23
+Added Net: Name=LA19_N
+Added Pin To Net: NetName=LA19_P Pin=JC1-43
+Added Pin To Net: NetName=LA19_P Pin=JC3-H22
+Added Net: Name=LA19_P
+Added Pin To Net: NetName=LA20_N Pin=JC1-44
+Added Pin To Net: NetName=LA20_N Pin=JC3-G22
+Added Net: Name=LA20_N
+Added Pin To Net: NetName=LA20_P Pin=JC1-42
+Added Pin To Net: NetName=LA20_P Pin=JC3-G21
+Added Net: Name=LA20_P
+Added Pin To Net: NetName=LA21_N Pin=JC1-51
+Added Pin To Net: NetName=LA21_N Pin=JC3-H26
+Added Net: Name=LA21_N
+Added Pin To Net: NetName=LA21_P Pin=JC1-49
+Added Pin To Net: NetName=LA21_P Pin=JC3-H25
+Added Net: Name=LA21_P
+Added Pin To Net: NetName=LA22_N Pin=JC1-50
+Added Pin To Net: NetName=LA22_N Pin=JC3-G25
+Added Net: Name=LA22_N
+Added Pin To Net: NetName=LA22_P Pin=JC1-48
+Added Pin To Net: NetName=LA22_P Pin=JC3-G24
+Added Net: Name=LA22_P
+Added Pin To Net: NetName=LA23_N Pin=JC2-47
+Added Pin To Net: NetName=LA23_N Pin=JC3-D24
+Added Net: Name=LA23_N
+Added Pin To Net: NetName=LA23_P Pin=JC2-45
+Added Pin To Net: NetName=LA23_P Pin=JC3-D23
+Added Net: Name=LA23_P
+Added Pin To Net: NetName=LA24_N Pin=JC1-57
+Added Pin To Net: NetName=LA24_N Pin=JC3-H29
+Added Net: Name=LA24_N
+Added Pin To Net: NetName=LA24_P Pin=JC1-55
+Added Pin To Net: NetName=LA24_P Pin=JC3-H28
+Added Net: Name=LA24_P
+Added Pin To Net: NetName=LA25_N Pin=JC1-56
+Added Pin To Net: NetName=LA25_N Pin=JC3-G28
+Added Net: Name=LA25_N
+Added Pin To Net: NetName=LA25_P Pin=JC1-54
+Added Pin To Net: NetName=LA25_P Pin=JC3-G27
+Added Net: Name=LA25_P
+Added Pin To Net: NetName=LA26_N Pin=JC2-53
+Added Pin To Net: NetName=LA26_N Pin=JC3-D27
+Added Net: Name=LA26_N
+Added Pin To Net: NetName=LA26_P Pin=JC2-51
+Added Pin To Net: NetName=LA26_P Pin=JC3-D26
+Added Net: Name=LA26_P
+Added Pin To Net: NetName=LA27_N Pin=JC2-54
+Added Pin To Net: NetName=LA27_N Pin=JC3-C27
+Added Net: Name=LA27_N
+Added Pin To Net: NetName=LA27_P Pin=JC2-52
+Added Pin To Net: NetName=LA27_P Pin=JC3-C26
+Added Net: Name=LA27_P
+Added Pin To Net: NetName=LA28_N Pin=JC1-63
+Added Pin To Net: NetName=LA28_N Pin=JC3-H32
+Added Net: Name=LA28_N
+Added Pin To Net: NetName=LA28_P Pin=JC1-61
+Added Pin To Net: NetName=LA28_P Pin=JC3-H31
+Added Net: Name=LA28_P
+Added Pin To Net: NetName=LA29_N Pin=JC1-62
+Added Pin To Net: NetName=LA29_N Pin=JC3-G31
+Added Net: Name=LA29_N
+Added Pin To Net: NetName=LA29_P Pin=JC1-60
+Added Pin To Net: NetName=LA29_P Pin=JC3-G30
+Added Net: Name=LA29_P
+Added Pin To Net: NetName=LA30_N Pin=JC1-69
+Added Pin To Net: NetName=LA30_N Pin=JC3-H35
+Added Net: Name=LA30_N
+Added Pin To Net: NetName=LA30_P Pin=JC1-67
+Added Pin To Net: NetName=LA30_P Pin=JC3-H34
+Added Net: Name=LA30_P
+Added Pin To Net: NetName=LA31_N Pin=JC1-68
+Added Pin To Net: NetName=LA31_N Pin=JC3-G34
+Added Net: Name=LA31_N
+Added Pin To Net: NetName=LA31_P Pin=JC1-66
+Added Pin To Net: NetName=LA31_P Pin=JC3-G33
+Added Net: Name=LA31_P
+Added Pin To Net: NetName=LA32_N Pin=JC1-75
+Added Pin To Net: NetName=LA32_N Pin=JC3-H38
+Added Net: Name=LA32_N
+Added Pin To Net: NetName=LA32_P Pin=JC1-73
+Added Pin To Net: NetName=LA32_P Pin=JC3-H37
+Added Net: Name=LA32_P
+Added Pin To Net: NetName=LA33_N Pin=JC1-74
+Added Pin To Net: NetName=LA33_N Pin=JC3-G37
+Added Net: Name=LA33_N
+Added Pin To Net: NetName=LA33_P Pin=JC1-72
+Added Pin To Net: NetName=LA33_P Pin=JC3-G36
+Added Net: Name=LA33_P
+Added Pin To Net: NetName=Net_2_N Pin=JC2-14
+Added Pin To Net: NetName=Net_2_N Pin=JC3-C7
+Added Net: Name=Net_2_N
+Added Pin To Net: NetName=Net_2_P Pin=JC2-12
+Added Pin To Net: NetName=Net_2_P Pin=JC3-C6
+Added Net: Name=Net_2_P
+Added Pin To Net: NetName=NET_3_GBTCLK0_N Pin=JC2-9
+Added Pin To Net: NetName=NET_3_GBTCLK0_N Pin=JC3-D5
+Added Net: Name=NET_3_GBTCLK0_N
+Added Pin To Net: NetName=NET_3_GBTCLK0_P Pin=JC2-7
+Added Pin To Net: NetName=NET_3_GBTCLK0_P Pin=JC3-D4
+Added Net: Name=NET_3_GBTCLK0_P
+Added Pin To Net: NetName=PG_C2M Pin=JC2-1
+Added Pin To Net: NetName=PG_C2M Pin=JC3-D1
+Added Net: Name=PG_C2M
+Added Pin To Net: NetName=PRSNT_M2C_H2 Pin=JC1-3
+Added Pin To Net: NetName=PRSNT_M2C_H2 Pin=JC3-H2
+Added Net: Name=PRSNT_M2C_H2
+Added Pin To Net: NetName=TCK Pin=JC2-57
+Added Pin To Net: NetName=TCK Pin=JC3-D29
+Added Net: Name=TCK
+Added Pin To Net: NetName=TDI Pin=JC2-59
+Added Pin To Net: NetName=TDI Pin=JC3-D30
+Added Net: Name=TDI
+Added Pin To Net: NetName=TDO Pin=JC2-61
+Added Pin To Net: NetName=TDO Pin=JC3-D31
+Added Net: Name=TDO
+Added Pin To Net: NetName=TMS Pin=JC2-65
+Added Pin To Net: NetName=TMS Pin=JC3-D33
+Added Net: Name=TMS
+Added Pin To Net: NetName=TRST_L Pin=JC2-67
+Added Pin To Net: NetName=TRST_L Pin=JC3-D34
+Added Net: Name=TRST_L
+Added Pin To Net: NetName=VREF_A_M2C_H1 Pin=JC1-1
+Added Pin To Net: NetName=VREF_A_M2C_H1 Pin=JC3-H1
+Added Net: Name=VREF_A_M2C_H1
+Add Differential Pair: Number of nets in differential pair GND is 1 instead of 2
+Added Differential Pair: Name=LA00_CC
+Added Differential Pair: Name=LA01_CC
+Added Differential Pair: Name=LA02
+Added Differential Pair: Name=LA03
+Added Differential Pair: Name=LA04
+Added Differential Pair: Name=LA05
+Added Differential Pair: Name=LA06
+Added Differential Pair: Name=LA07
+Added Differential Pair: Name=LA08
+Added Differential Pair: Name=LA09
+Added Differential Pair: Name=LA10
+Added Differential Pair: Name=LA11
+Added Differential Pair: Name=LA12
+Added Differential Pair: Name=LA13
+Added Differential Pair: Name=LA14
+Added Differential Pair: Name=LA15
+Added Differential Pair: Name=LA16
+Added Differential Pair: Name=LA17_CC
+Added Differential Pair: Name=LA18_CC
+Added Differential Pair: Name=LA19
+Added Differential Pair: Name=LA20
+Added Differential Pair: Name=LA21
+Added Differential Pair: Name=LA22
+Added Differential Pair: Name=LA23
+Added Differential Pair: Name=LA24
+Added Differential Pair: Name=LA25
+Added Differential Pair: Name=LA26
+Added Differential Pair: Name=LA27
+Added Differential Pair: Name=LA28
+Added Differential Pair: Name=LA29
+Added Differential Pair: Name=LA30
+Added Differential Pair: Name=LA31
+Added Differential Pair: Name=LA32
+Add Differential Pair: Number of nets in differential pair LA33 is 1 instead of 2
+Added Differential Pair: Name=Net_2
+Added Differential Pair: Name=NET_3_GBTCLK0

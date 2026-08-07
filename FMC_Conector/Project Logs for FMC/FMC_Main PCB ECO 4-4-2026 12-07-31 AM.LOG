@@ -1,0 +1,93 @@
+Added Component: Designator=JC?(FTSH-140-01-L-DV)
+Add component (AddParameter): Name = "Company P/N"; Value = "JC-000048"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Samtec Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N 1"; Value = "FTSH-140-01-L-DV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "80"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "6"; VariantName = "[No Variations]"
+Added Component: Designator=JC?(FTSH-140-01-L-DV)
+Add component (AddParameter): Name = "Company P/N"; Value = "JC-000048"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Samtec Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N 1"; Value = "FTSH-140-01-L-DV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "80"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "6"; VariantName = "[No Variations]"
+Added Component: Designator=JC?(ASP-134604-01)
+Add component (AddParameter): Name = "Company P/N"; Value = "JC-000046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Samtec Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N 1"; Value = "ASP-134604-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "160"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "14"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=JC?-C1
+Added Pin To Net: NetName=3V3 Pin=JC?-C4
+Added Pin To Net: NetName=3V3 Pin=JC?-C5
+Added Pin To Net: NetName=3V3 Pin=JC?-C8
+Added Pin To Net: NetName=3V3 Pin=JC?-C9
+Added Pin To Net: NetName=3V3 Pin=JC?-C12
+Added Pin To Net: NetName=3V3 Pin=JC?-C13
+Added Pin To Net: NetName=3V3 Pin=JC?-C16
+Added Pin To Net: NetName=3V3 Pin=JC?-C17
+Added Pin To Net: NetName=3V3 Pin=JC?-C20
+Added Pin To Net: NetName=3V3 Pin=JC?-C21
+Added Pin To Net: NetName=3V3 Pin=JC?-C24
+Added Pin To Net: NetName=3V3 Pin=JC?-C25
+Added Pin To Net: NetName=3V3 Pin=JC?-C28
+Added Pin To Net: NetName=3V3 Pin=JC?-C29
+Added Pin To Net: NetName=3V3 Pin=JC?-C32
+Added Pin To Net: NetName=3V3 Pin=JC?-C33
+Added Pin To Net: NetName=3V3 Pin=JC?-C35
+Added Pin To Net: NetName=3V3 Pin=JC?-C36
+Added Pin To Net: NetName=3V3 Pin=JC?-C37
+Added Pin To Net: NetName=3V3 Pin=JC?-C38
+Added Pin To Net: NetName=3V3 Pin=JC?-C39
+Added Pin To Net: NetName=3V3 Pin=JC?-C40
+Added Pin To Net: NetName=3V3 Pin=JC?-D2
+Added Pin To Net: NetName=3V3 Pin=JC?-D3
+Added Pin To Net: NetName=3V3 Pin=JC?-D6
+Added Pin To Net: NetName=3V3 Pin=JC?-D7
+Added Pin To Net: NetName=3V3 Pin=JC?-D10
+Added Pin To Net: NetName=3V3 Pin=JC?-D13
+Added Pin To Net: NetName=3V3 Pin=JC?-D16
+Added Pin To Net: NetName=3V3 Pin=JC?-D19
+Added Pin To Net: NetName=3V3 Pin=JC?-D22
+Added Pin To Net: NetName=3V3 Pin=JC?-D25
+Added Pin To Net: NetName=3V3 Pin=JC?-D28
+Added Pin To Net: NetName=3V3 Pin=JC?-D32
+Added Pin To Net: NetName=3V3 Pin=JC?-D36
+Added Pin To Net: NetName=3V3 Pin=JC?-D37
+Added Pin To Net: NetName=3V3 Pin=JC?-D38
+Added Pin To Net: NetName=3V3 Pin=JC?-D39
+Added Pin To Net: NetName=3V3 Pin=JC?-D40
+Added Pin To Net: NetName=3V3 Pin=JC?-G1
+Added Pin To Net: NetName=3V3 Pin=JC?-G4
+Added Pin To Net: NetName=3V3 Pin=JC?-G5
+Added Pin To Net: NetName=3V3 Pin=JC?-G8
+Added Pin To Net: NetName=3V3 Pin=JC?-G11
+Added Pin To Net: NetName=3V3 Pin=JC?-G14
+Added Pin To Net: NetName=3V3 Pin=JC?-G17
+Added Pin To Net: NetName=3V3 Pin=JC?-G20
+Added Pin To Net: NetName=3V3 Pin=JC?-G23
+Added Pin To Net: NetName=3V3 Pin=JC?-G26
+Added Pin To Net: NetName=3V3 Pin=JC?-G29
+Added Pin To Net: NetName=3V3 Pin=JC?-G32
+Added Pin To Net: NetName=3V3 Pin=JC?-G35
+Added Pin To Net: NetName=3V3 Pin=JC?-G38
+Added Pin To Net: NetName=3V3 Pin=JC?-G40
+Added Pin To Net: NetName=3V3 Pin=JC?-H3
+Added Pin To Net: NetName=3V3 Pin=JC?-H6
+Added Pin To Net: NetName=3V3 Pin=JC?-H9
+Added Pin To Net: NetName=3V3 Pin=JC?-H12
+Added Pin To Net: NetName=3V3 Pin=JC?-H15
+Added Pin To Net: NetName=3V3 Pin=JC?-H18
+Added Pin To Net: NetName=3V3 Pin=JC?-H21
+Added Pin To Net: NetName=3V3 Pin=JC?-H24
+Added Pin To Net: NetName=3V3 Pin=JC?-H27
+Added Pin To Net: NetName=3V3 Pin=JC?-H30
+Added Pin To Net: NetName=3V3 Pin=JC?-H33
+Added Pin To Net: NetName=3V3 Pin=JC?-H36
+Added Pin To Net: NetName=3V3 Pin=JC?-H39
+Added Net: Name=3V3
+Added Pin To Net: NetName=VDD_ADJ Pin=JC?-G39
+Added Pin To Net: NetName=VDD_ADJ Pin=JC?-H40
+Added Net: Name=VDD_ADJ
+Added Class: Name=FMC_Main
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1

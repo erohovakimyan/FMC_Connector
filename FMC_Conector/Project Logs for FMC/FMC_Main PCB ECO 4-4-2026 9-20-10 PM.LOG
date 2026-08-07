@@ -1,0 +1,18 @@
+Added Component: Designator=IC1(8-MSOP)
+Add component (AddParameter): Name = "Company P/N"; Value = "IC-000082"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "EEPROM Memory IC 2Kbit I2C 400 kHz 900 ns 8-MSOP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N 1"; Value = "24LC02B-I/MS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 85°C (TA)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Voltage"; Value = "2.5V ~ 5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0.35"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A0 Pin=IC1-1
+Added Pin To Net: NetName=A1 Pin=IC1-2
+Added Pin To Net: NetName=GND Pin=IC1-3
+Added Pin To Net: NetName=GND Pin=IC1-4
+Added Pin To Net: NetName=SDA Pin=IC1-5
+Added Pin To Net: NetName=SCL Pin=IC1-6
+Added Pin To Net: NetName=GND Pin=IC1-7
+Added Pin To Net: NetName=3V3 Pin=IC1-8
+Added Member To Class: ClassName=FMC_Main Member=Component IC1 24LC02B-IMS

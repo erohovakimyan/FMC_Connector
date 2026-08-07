@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=LA00_CC_N Pin=JC2-12
+Removed Pin From Net: NetName=LA00_CC_N Pin=JC2-14
+Removed Pin From Net: NetName=LA00_CC_N Pin=JC2-72
+Removed Pin From Net: NetName=LA00_CC_N Pin=JC2-74
+Removed Pin From Net: NetName=LA00_CC_N Pin=JC3-G6
+Removed Pin From Net: NetName=LA00_CC_N Pin=JC3-G7
+Removed Pin From Net: NetName=LA00_CC_N Pin=JC3-G36
+Removed Pin From Net: NetName=LA00_CC_N Pin=JC3-G37
+Added Component: Designator=JC?(TSW-110-20-F-D)
+Add component (AddParameter): Name = "Company P/N"; Value = "JC-000051"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Name 1"; Value = "Samtec Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer P/N 1"; Value = "TSW-110-20-F-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LA02_P Pin=JC4-2
+Added Pin To Net: NetName=LA02_N Pin=JC4-3
+Added Pin To Net: NetName=LA15_P Pin=JC5-2
+Added Pin To Net: NetName=LA15_N Pin=JC5-3
+Added Pin To Net: NetName=LA28_P Pin=JC6-2
+Added Pin To Net: NetName=LA28_N Pin=JC6-3
+Added Pin To Net: NetName=LA01_CC_P Pin=JC6-5
+Added Pin To Net: NetName=LA01_CC_N Pin=JC6-6
+Change Net Name : Old Net Name=LA00_CC_N New Net Name=GND
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 255)
+Added Pin To Net: NetName=LA00_CC_N Pin=JC2-14
+Added Pin To Net: NetName=LA00_CC_N Pin=JC3-G7
+Added Pin To Net: NetName=LA00_CC_N Pin=JC4-6
+Added Net: Name=LA00_CC_N
+Added Pin To Net: NetName=LA00_CC_P Pin=JC2-12
+Added Pin To Net: NetName=LA00_CC_P Pin=JC3-G6
+Added Pin To Net: NetName=LA00_CC_P Pin=JC4-5
+Added Net: Name=LA00_CC_P
+Added Pin To Net: NetName=LA33_N Pin=JC2-74
+Added Pin To Net: NetName=LA33_N Pin=JC3-G37
+Added Net: Name=LA33_N
+Added Pin To Net: NetName=LA33_P Pin=JC2-72
+Added Pin To Net: NetName=LA33_P Pin=JC3-G36
+Added Net: Name=LA33_P
+Add Differential Pair: Number of nets in differential pair GND is 1 instead of 2
+Added Differential Pair: Name=LA33
+Added Member To Class: ClassName=FMC_Main Member=Component JC? TSW-110-20-F-D
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Width Constraint
+Added Rule: Name=Schematic Width Constraint_1
+Added Rule: Name=Schematic Width Constraint_2
+Added Rule: Name=Schematic Width Constraint_3
+Added Rule: Name=Schematic Width Constraint_4
+Added Rule: Name=Schematic Width Constraint_5
+Added Rule: Name=Schematic Width Constraint_6
+Added Rule: Name=Schematic Width Constraint_7
+Added Rule: Name=Schematic Width Constraint_8
+Added Rule: Name=Schematic Width Constraint_9
+Added Rule: Name=Schematic Width Constraint_10
+Added Rule: Name=Schematic Width Constraint_11
+Added Rule: Name=Schematic Width Constraint_12
+Added Rule: Name=Schematic Width Constraint_13
+Added Rule: Name=Schematic Width Constraint_14
+Added Rule: Name=Schematic Width Constraint_15

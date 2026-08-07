@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=JC3-G4
+Removed Pin From Net: NetName=GND Pin=JC3-G5
+Change Component DesignItemId : Designator=JC3 Old DesignItemId=JC-000046 New DesignItemId=ASP-134604-01
+Change Component Description : Designator=JC3 Old Description=CONN ARRAY PLUG 160POS SMD GOLD New Description=
+Change Component Library : Designator=JC3 Old Library=Database.DbLib New Library=ASP-134604-01.SchLib
+Change component parameters: Designator = "JC3" ("JC3"); UniqueID = "\ABKASEHR" ("\ABKASEHR")

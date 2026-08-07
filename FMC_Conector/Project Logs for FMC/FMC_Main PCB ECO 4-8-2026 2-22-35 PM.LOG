@@ -1,0 +1,120 @@
+Removed Pin From Net: NetName=LA09_P Pin=JC7-1
+Removed Pin From Net: NetName=LA06_P Pin=JC7-5
+Removed Pin From Net: NetName=LA06_N Pin=JC7-6
+Removed Pin From Net: NetName=LA10_P Pin=JC7-7
+Removed Pin From Net: NetName=LA10_N Pin=JC7-9
+Removed Pin From Net: NetName=LA14_P Pin=JC7-11
+Removed Pin From Net: NetName=LA14_N Pin=JC7-12
+Removed Pin From Net: NetName=LA27_P Pin=JC7-15
+Removed Pin From Net: NetName=LA27_N Pin=JC7-17
+Added Component: Designator=Y1(Solderbridge)
+Add component (AddParameter): Name = "Company P/N"; Value = "YC-000015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=Y2(Solderbridge)
+Add component (AddParameter): Name = "Company P/N"; Value = "YC-000015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=Y3(Solderbridge)
+Add component (AddParameter): Name = "Company P/N"; Value = "YC-000015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=Y4(Solderbridge)
+Add component (AddParameter): Name = "Company P/N"; Value = "YC-000015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=Y5(Solderbridge)
+Add component (AddParameter): Name = "Company P/N"; Value = "YC-000015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=Y6(Solderbridge)
+Add component (AddParameter): Name = "Company P/N"; Value = "YC-000015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=Y7(Solderbridge)
+Add component (AddParameter): Name = "Company P/N"; Value = "YC-000015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=Y8(Solderbridge)
+Add component (AddParameter): Name = "Company P/N"; Value = "YC-000015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=Y9(Solderbridge)
+Add component (AddParameter): Name = "Company P/N"; Value = "YC-000015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LA09_P Pin=Y1-2
+Added Pin To Net: NetName=LA06_P Pin=Y2-2
+Added Pin To Net: NetName=LA10_P Pin=Y3-2
+Added Pin To Net: NetName=LA06_N Pin=Y4-1
+Added Pin To Net: NetName=LA10_N Pin=Y5-2
+Added Pin To Net: NetName=LA14_P Pin=Y6-2
+Added Pin To Net: NetName=LA14_N Pin=Y7-1
+Added Pin To Net: NetName=LA27_P Pin=Y8-2
+Added Pin To Net: NetName=LA27_N Pin=Y9-2
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Added Pin To Net: NetName=NetJC7_1 Pin=JC7-1
+Added Pin To Net: NetName=NetJC7_1 Pin=Y1-1
+Added Net: Name=NetJC7_1
+Added Pin To Net: NetName=NetJC7_5 Pin=JC7-5
+Added Pin To Net: NetName=NetJC7_5 Pin=Y2-1
+Added Net: Name=NetJC7_5
+Added Pin To Net: NetName=NetJC7_6 Pin=JC7-6
+Added Pin To Net: NetName=NetJC7_6 Pin=Y4-2
+Added Net: Name=NetJC7_6
+Added Pin To Net: NetName=NetJC7_7 Pin=JC7-7
+Added Pin To Net: NetName=NetJC7_7 Pin=Y3-1
+Added Net: Name=NetJC7_7
+Added Pin To Net: NetName=NetJC7_9 Pin=JC7-9
+Added Pin To Net: NetName=NetJC7_9 Pin=Y5-1
+Added Net: Name=NetJC7_9
+Added Pin To Net: NetName=NetJC7_11 Pin=JC7-11
+Added Pin To Net: NetName=NetJC7_11 Pin=Y6-1
+Added Net: Name=NetJC7_11
+Added Pin To Net: NetName=NetJC7_12 Pin=JC7-12
+Added Pin To Net: NetName=NetJC7_12 Pin=Y7-2
+Added Net: Name=NetJC7_12
+Added Pin To Net: NetName=NetJC7_15 Pin=JC7-15
+Added Pin To Net: NetName=NetJC7_15 Pin=Y8-1
+Added Net: Name=NetJC7_15
+Added Pin To Net: NetName=NetJC7_17 Pin=JC7-17
+Added Pin To Net: NetName=NetJC7_17 Pin=Y9-1
+Added Net: Name=NetJC7_17
+Added Class: Name=DIFF_PAIR
+Added Member To Class: ClassName=FMC_Main Member=Component Y1 Solderbridge
+Added Member To Class: ClassName=FMC_Main Member=Component Y2 Solderbridge
+Added Member To Class: ClassName=FMC_Main Member=Component Y3 Solderbridge
+Added Member To Class: ClassName=FMC_Main Member=Component Y4 Solderbridge
+Added Member To Class: ClassName=FMC_Main Member=Component Y5 Solderbridge
+Added Member To Class: ClassName=FMC_Main Member=Component Y6 Solderbridge
+Added Member To Class: ClassName=FMC_Main Member=Component Y7 Solderbridge
+Added Member To Class: ClassName=FMC_Main Member=Component Y8 Solderbridge
+Added Member To Class: ClassName=FMC_Main Member=Component Y9 Solderbridge
+Added Rule: Name=Schematic Width Constraint

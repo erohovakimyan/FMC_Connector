@@ -1,0 +1,90 @@
+Removed Pin From Net: NetName=LA02_P Pin=JC4-2
+Removed Pin From Net: NetName=LA02_N Pin=JC4-3
+Removed Pin From Net: NetName=LA04_P Pin=JC4-5
+Removed Pin From Net: NetName=LA04_N Pin=JC4-6
+Removed Pin From Net: NetName=LA15_P Pin=JC5-2
+Removed Pin From Net: NetName=LA15_N Pin=JC5-3
+Removed Pin From Net: NetName=LA28_P Pin=JC6-2
+Removed Pin From Net: NetName=LA28_N Pin=JC6-3
+Removed Pin From Net: NetName=LA30_P Pin=JC6-5
+Removed Pin From Net: NetName=LA30_N Pin=JC6-6
+Added Component: Designator=Y12(Solderbridge_NC)
+Add component (AddParameter): Name = "Company P/N"; Value = "YC-000014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=Y13(Solderbridge_NC)
+Add component (AddParameter): Name = "Company P/N"; Value = "YC-000014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=Y14(Solderbridge_NC)
+Add component (AddParameter): Name = "Company P/N"; Value = "YC-000014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=Y15(Solderbridge_NC)
+Add component (AddParameter): Name = "Company P/N"; Value = "YC-000014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=Y16(Solderbridge_NC)
+Add component (AddParameter): Name = "Company P/N"; Value = "YC-000014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=Y17(Solderbridge_NC)
+Add component (AddParameter): Name = "Company P/N"; Value = "YC-000014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=Y18(Solderbridge_NC)
+Add component (AddParameter): Name = "Company P/N"; Value = "YC-000014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=Y19(Solderbridge_NC)
+Add component (AddParameter): Name = "Company P/N"; Value = "YC-000014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=Y20(Solderbridge_NC)
+Add component (AddParameter): Name = "Company P/N"; Value = "YC-000014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=Y21(Solderbridge_NC)
+Add component (AddParameter): Name = "Company P/N"; Value = "YC-000014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price @ 1k"; Value = "0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LA02_P Pin=Y12-2
+Added Pin To Net: NetName=LA02_N Pin=Y13-2
+Added Pin To Net: NetName=LA04_P Pin=Y14-2
+Added Pin To Net: NetName=LA04_N Pin=Y15-2
+Added Pin To Net: NetName=LA15_P Pin=Y16-2
+Added Pin To Net: NetName=LA15_N Pin=Y17-2
+Added Pin To Net: NetName=LA28_P Pin=Y18-2
+Added Pin To Net: NetName=LA28_N Pin=Y19-2
+Added Pin To Net: NetName=LA30_P Pin=Y20-2
+Added Pin To Net: NetName=LA30_N Pin=Y21-2
+Added Pin To Net: NetName=NetJC4_2 Pin=JC4-2
+Added Pin To Net: NetName=NetJC4_2 Pin=Y12-1
+Added Net: Name=NetJC4_2
+Added Pin To Net: NetName=NetJC4_3 Pin=JC4-3
+Added Pin To Net: NetName=NetJC4_3 Pin=Y13-1
+Added Net: Name=NetJC4_3
+Added Pin To Net: NetName=NetJC4_5 Pin=JC4-5
+Added Pin To Net: NetName=NetJC4_5 Pin=Y14-1
+Added Net: Name=NetJC4_5
+Added Pin To Net: NetName=NetJC4_6 Pin=JC4-6
+Added Pin To Net: NetName=NetJC4_6 Pin=Y15-1
+Added Net: Name=NetJC4_6
+Added Pin To Net: NetName=NetJC5_2 Pin=JC5-2
+Added Pin To Net: NetName=NetJC5_2 Pin=Y16-1
+Added Net: Name=NetJC5_2
+Added Pin To Net: NetName=NetJC5_3 Pin=JC5-3
+Added Pin To Net: NetName=NetJC5_3 Pin=Y17-1
+Added Net: Name=NetJC5_3
+Added Pin To Net: NetName=NetJC6_2 Pin=JC6-2
+Added Pin To Net: NetName=NetJC6_2 Pin=Y18-1
+Added Net: Name=NetJC6_2
+Added Pin To Net: NetName=NetJC6_3 Pin=JC6-3
+Added Pin To Net: NetName=NetJC6_3 Pin=Y19-1
+Added Net: Name=NetJC6_3
+Added Pin To Net: NetName=NetJC6_5 Pin=JC6-5
+Added Pin To Net: NetName=NetJC6_5 Pin=Y20-1
+Added Net: Name=NetJC6_5
+Added Pin To Net: NetName=NetJC6_6 Pin=JC6-6
+Added Pin To Net: NetName=NetJC6_6 Pin=Y21-1
+Added Net: Name=NetJC6_6
+Added Member To Class: ClassName=FMC_Main Member=Component Y12 Solderbridge_NC
+Added Member To Class: ClassName=FMC_Main Member=Component Y13 Solderbridge_NC
+Added Member To Class: ClassName=FMC_Main Member=Component Y14 Solderbridge_NC
+Added Member To Class: ClassName=FMC_Main Member=Component Y15 Solderbridge_NC
+Added Member To Class: ClassName=FMC_Main Member=Component Y16 Solderbridge_NC
+Added Member To Class: ClassName=FMC_Main Member=Component Y17 Solderbridge_NC
+Added Member To Class: ClassName=FMC_Main Member=Component Y18 Solderbridge_NC
+Added Member To Class: ClassName=FMC_Main Member=Component Y19 Solderbridge_NC
+Added Member To Class: ClassName=FMC_Main Member=Component Y20 Solderbridge_NC
+Added Member To Class: ClassName=FMC_Main Member=Component Y21 Solderbridge_NC
